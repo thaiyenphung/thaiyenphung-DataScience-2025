@@ -1,3 +1,6 @@
 [submodule "Assignments"]
 	path = Assignments
 	url = https://github.com/rugbyprof/3603-Programming-for-Data-Science.git
+[submodule "prof-course"]
+	path = prof-course
+	url = https://github.com/rugbyprof/3603-Programming-for-Data-Science.git
