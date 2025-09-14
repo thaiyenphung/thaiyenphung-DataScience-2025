@@ -34,5 +34,6 @@ Copy GitHub notebook URL -> go to Google Colab -> choose File\Open notebook -> s
 
 ### 5. What is the difference between `//` and `/` in Python?
 ```text
-Your answer:
+// is floor division, the result is rounded down to the nearest whole number.
+/ is normal division and returns a float even if the division is exact (8/2 = 4.0)
 ```
