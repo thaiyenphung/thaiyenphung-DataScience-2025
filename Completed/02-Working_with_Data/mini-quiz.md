@@ -5,7 +5,7 @@ Test your memory and skills from this module!
 ---
 
 ### 1. Which list method removes an element by value?
-```
+```python
 remove()
 ```
 ---
@@ -24,7 +24,7 @@ Tuples cannot be changed as they are immutable.
 ---
 
 ### 4. What method would you use to get all keys in a dictionary?
-```
+```python
 keys()
 ```
 ---
