@@ -33,6 +33,7 @@ for i in range (1, 11):
 4. What happens if a `while` loop's condition never becomes `False`?
 
 `Answer:` We get an infinite loop
+
 ---
 
 ### ✏️ Task: Countdown with While
